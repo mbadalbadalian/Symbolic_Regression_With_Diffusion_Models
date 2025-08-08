@@ -7,15 +7,15 @@ This project introduces a diffusion-based framework for symbolic regression, a t
 
 ## Table of Contents
 
-- [Project Overview](#-project-overview)  
-- [Features](#-features)  
-- [Tech Stack](#-tech-stack)  
-- [Dataset Descriptions](#-dataset-descriptions)  
-- [How It Works](#-how-it-works)
-- [Results](#-results) 
-- [Running the Code](#️-running-the-code)
-- [Authors](#️-authors)  
-- [License](#-license)
+- [Project Overview](#project-overview)  
+- [Features](#features)  
+- [Tech Stack](#tech-stack)  
+- [Dataset Descriptions](#dataset-descriptions)  
+- [How It Works](#how-it-works)
+- [Results](#results) 
+- [Running the Code](#️running-the-code)
+- [Authors](#️authors)  
+- [License](#license)
 
 ---
 
